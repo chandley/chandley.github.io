@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipe and perhaps blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://chandley.github.io/</link>
     <description>Recent content on Recipe and perhaps blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 10:55:14 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chandley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chess Pie</title>
-      <link>http://localhost:1313/recipe/chess-pie/</link>
+      <link>https://chandley.github.io/recipe/chess-pie/</link>
       <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
-      <guid>http://localhost:1313/recipe/chess-pie/</guid>
+      <guid>https://chandley.github.io/recipe/chess-pie/</guid>
       <description>&lt;p&gt;mix&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 cup packed brown sugar&lt;/li&gt;&#xA;&lt;li&gt;½ cup granulated sugar&lt;/li&gt;&#xA;&lt;li&gt;1T flour&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;beat in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 eggs&lt;/li&gt;&#xA;&lt;li&gt;2T milk&lt;/li&gt;&#xA;&lt;li&gt;1t vanilla&lt;/li&gt;&#xA;&lt;li&gt;½ cup melted butter&#xA;until thick &amp;amp; light&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1C chopped walnuts or pecans&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;put in 20cm shortcrust pie shell&lt;/p&gt;&#xA;&lt;p&gt;bake 190c for 40-50 minutes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eggnog</title>
+      <link>https://chandley.github.io/recipe/eggnog/</link>
+      <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/eggnog/</guid>
+      <description>&lt;p&gt;beat&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;6 egg yolks&lt;/li&gt;&#xA;&lt;li&gt;4oz icing sugar&lt;/li&gt;&#xA;&lt;li&gt;½ pint milk&lt;/li&gt;&#xA;&lt;li&gt;½ bottle brandy&lt;/li&gt;&#xA;&lt;li&gt;2oz rum&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;whip and fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1pt double cream&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;beat to soft peak and fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;6 egg whites&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;serve with sprinkling of nutmeg&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
