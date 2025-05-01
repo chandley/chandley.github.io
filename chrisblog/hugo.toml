@@ -1,4 +1,5 @@
-baseURL = 'https://chandley.github.io/'
+baseURL = 'https://chandley.github.io/chrisblog/'
 languageCode = 'en-us'
 title = 'Recipe and perhaps blog'
 theme = 'ananke'
+publishDir = 'docs'
