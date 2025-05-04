@@ -11,13 +11,13 @@ mix
 
 beat in
 * 2 eggs
-* 2T milk
-* 1t vanilla
+* 2 T milk
+* 1 t vanilla
 * ½ cup melted butter
   until thick & light
 
 fold in
-* 1C chopped walnuts or pecans
+* 1 cup chopped walnuts or pecans
 
 put in 20cm shortcrust pie shell
 
