@@ -1,19 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recipe and perhaps blog</title>
+    <title>Recipes</title>
     <link>https://chandley.github.io/</link>
-    <description>Recent content on Recipe and perhaps blog</description>
+    <description>Recent content on Recipes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 10:55:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 10:55:14 +0100</lastBuildDate>
     <atom:link href="https://chandley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pastry (Jean&#39;s mince pie)</title>
+      <link>https://chandley.github.io/recipe/pastryjean/</link>
+      <pubDate>Sun, 04 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/pastryjean/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;10 oz self-raising flour&lt;/li&gt;&#xA;&lt;li&gt;2 oz cornflour&lt;/li&gt;&#xA;&lt;li&gt;6 oz butter&lt;/li&gt;&#xA;&lt;li&gt;2 t caster sugar&lt;/li&gt;&#xA;&lt;li&gt;egg yolk and water to bind&#xA;brush with milk and caster sugar sprinkle&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Pumpkin Pie (Mother recipe)</title>
+      <link>https://chandley.github.io/recipe/pumpkinpie/</link>
+      <pubDate>Sun, 04 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/pumpkinpie/</guid>
+      <description>&lt;p&gt;heat over medium heat for 10 minutes&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 1/2 cup cooked or canned pumpkin&lt;/li&gt;&#xA;&lt;li&gt;1/2 cup sugar&lt;/li&gt;&#xA;&lt;li&gt;2 T flour&lt;/li&gt;&#xA;&lt;li&gt;1/4 t nutmeg&lt;/li&gt;&#xA;&lt;li&gt;1/4 t ginger&lt;/li&gt;&#xA;&lt;li&gt;1/2 t salt&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup corn syrup&lt;/li&gt;&#xA;&lt;li&gt;1 1/2 cup milk (or equal mix evaporated milk and water)&lt;/li&gt;&#xA;&lt;li&gt;2 eggs well beaten&lt;/li&gt;&#xA;&lt;li&gt;3T sugar&lt;/li&gt;&#xA;&lt;li&gt;1t vanilla essence&#xA;set aside&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mix then cook over low heat&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 egg yolks&lt;/li&gt;&#xA;&lt;li&gt;2-3T tapioca&lt;/li&gt;&#xA;&lt;li&gt;2T sugar&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup milk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When spoon is coated and mixture is bubbling dully, add egg white&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Refrigerator Cookies</title>
+      <link>https://chandley.github.io/recipe/refridgeratorcookies/</link>
+      <pubDate>Sun, 04 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/refridgeratorcookies/</guid>
+      <description>&lt;p&gt;mix thoroughly&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 cup butter&lt;/li&gt;&#xA;&lt;li&gt;½ cup sugar&lt;/li&gt;&#xA;&lt;li&gt;½ cup brown sugar&lt;/li&gt;&#xA;&lt;li&gt;2 eggs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;then stir in&#xA;2 ¼ cups sifted plain flour&#xA;½ tsp Bicarbonate of soda&#xA;1 tsp salt&#xA;2 to 3 tsp cinnamon&lt;/p&gt;&#xA;&lt;p&gt;½ cup walnuts (optional)&lt;/p&gt;&#xA;&lt;p&gt;cool in bowl, form into rolls then wrap in cling film &amp;amp; freeze&lt;/p&gt;&#xA;&lt;p&gt;cut into rounds, ⅛ to ¼ inch thick&#xA;Bake on sheet at 200 C/400 F for 6 to 8 mins&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tapioca Cream</title>
+      <link>https://chandley.github.io/recipe/tapioca/</link>
+      <pubDate>Sun, 04 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/tapioca/</guid>
+      <description>&lt;p&gt;beat&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 egg whites&lt;/li&gt;&#xA;&lt;li&gt;3T sugar&lt;/li&gt;&#xA;&lt;li&gt;1t vanilla essence&#xA;set aside&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mix then cook over low heat&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 egg yolks&lt;/li&gt;&#xA;&lt;li&gt;2-3T tapioca&lt;/li&gt;&#xA;&lt;li&gt;2T sugar&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup milk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When spoon is coated and mixture is bubbling dully, add egg white&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Videos</title>
+      <link>https://chandley.github.io/recipe/_video/</link>
+      <pubDate>Sun, 04 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/_video/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://shortedfilms.com/short-films/echoes-of-tomorrow-wisdome-hope/&#34;&gt;https://shortedfilms.com/short-films/echoes-of-tomorrow-wisdome-hope/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;also a flash on coldplay (4 minutes into the first video)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLsvoYlzBrLFDoytiaDKjuCK6CNSRty38l&amp;amp;si=q6CNjo6H9SeDPZv0&#34;&gt;https://youtube.com/playlist?list=PLsvoYlzBrLFDoytiaDKjuCK6CNSRty38l&amp;amp;si=q6CNjo6H9SeDPZv0&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baked Custard</title>
+      <link>https://chandley.github.io/recipe/bakedcustard/</link>
+      <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/bakedcustard/</guid>
+      <description>&lt;p&gt;beat&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 eggs (or 4 egg yolks)&lt;/li&gt;&#xA;&lt;li&gt;1/2 cup sugar&lt;/li&gt;&#xA;&lt;li&gt;1/4t salt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;scald until crinkly on top&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 cups milk&#xA;stir into egg mixture, adding&lt;/li&gt;&#xA;&lt;li&gt;1/2 t vanilla extract&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When spoon is coated and mixture is bubbling dully, add egg white&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Chess Pie</title>
       <link>https://chandley.github.io/recipe/chess-pie/</link>
       <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
       <guid>https://chandley.github.io/recipe/chess-pie/</guid>
-      <description>&lt;p&gt;mix&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 cup packed brown sugar&lt;/li&gt;&#xA;&lt;li&gt;½ cup granulated sugar&lt;/li&gt;&#xA;&lt;li&gt;1T flour&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;beat in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 eggs&lt;/li&gt;&#xA;&lt;li&gt;2T milk&lt;/li&gt;&#xA;&lt;li&gt;1t vanilla&lt;/li&gt;&#xA;&lt;li&gt;½ cup melted butter&#xA;until thick &amp;amp; light&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1C chopped walnuts or pecans&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;put in 20cm shortcrust pie shell&lt;/p&gt;&#xA;&lt;p&gt;bake 190c for 40-50 minutes&lt;/p&gt;</description>
+      <description>&lt;p&gt;mix&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 cup packed brown sugar&lt;/li&gt;&#xA;&lt;li&gt;½ cup granulated sugar&lt;/li&gt;&#xA;&lt;li&gt;1T flour&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;beat in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 eggs&lt;/li&gt;&#xA;&lt;li&gt;2 T milk&lt;/li&gt;&#xA;&lt;li&gt;1 t vanilla&lt;/li&gt;&#xA;&lt;li&gt;½ cup melted butter&#xA;until thick &amp;amp; light&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 cup chopped walnuts or pecans&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;put in 20cm shortcrust pie shell&lt;/p&gt;&#xA;&lt;p&gt;bake 190c for 40-50 minutes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chocolate sauce</title>
+      <link>https://chandley.github.io/recipe/chocolatesauce/</link>
+      <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/chocolatesauce/</guid>
+      <description>&lt;p&gt;boil for 3 minutes stirring constantly&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 1/2 oz dark choc unsweetened&lt;/li&gt;&#xA;&lt;li&gt;1 T butter&lt;/li&gt;&#xA;&lt;li&gt;2 T karo syrup (or golden syrup)&lt;/li&gt;&#xA;&lt;li&gt;1/2 cup boiling water&lt;/li&gt;&#xA;&lt;li&gt;1 cup sugar&lt;/li&gt;&#xA;&lt;li&gt;1/8 t salt&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;add&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1/2 t vanilla&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Eggnog</title>
@@ -21,6 +70,20 @@
       <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
       <guid>https://chandley.github.io/recipe/eggnog/</guid>
       <description>&lt;p&gt;beat&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;6 egg yolks&lt;/li&gt;&#xA;&lt;li&gt;4oz icing sugar&lt;/li&gt;&#xA;&lt;li&gt;½ pint milk&lt;/li&gt;&#xA;&lt;li&gt;½ bottle brandy&lt;/li&gt;&#xA;&lt;li&gt;2oz rum&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;whip and fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1pt double cream&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;beat to soft peak and fold in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;6 egg whites&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;serve with sprinkling of nutmeg&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Finnish Ginger Cookies</title>
+      <link>https://chandley.github.io/recipe/finnishginger/</link>
+      <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/finnishginger/</guid>
+      <description>&lt;p&gt;melt without boiling&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3 oz margarine&lt;/li&gt;&#xA;&lt;li&gt;4 oz golden syrup&lt;/li&gt;&#xA;&lt;li&gt;2 oz sugar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;mix together and stir in&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;7 oz self raising flour&lt;/li&gt;&#xA;&lt;li&gt;½ t cinnamon&lt;/li&gt;&#xA;&lt;li&gt;½ t cloves&lt;/li&gt;&#xA;&lt;li&gt;½ t bicarb of soda&lt;/li&gt;&#xA;&lt;li&gt;1 t ginger&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;add&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1T milk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;cool for an hour in fridge, form into roll, freeze in cling film&lt;/p&gt;&#xA;&lt;p&gt;cut into 1/8 inch thick rounds, bake at 200C for 6-8 minutes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ice Cream</title>
+      <link>https://chandley.github.io/recipe/icecream/</link>
+      <pubDate>Thu, 01 May 2025 10:55:14 +0100</pubDate>
+      <guid>https://chandley.github.io/recipe/icecream/</guid>
+      <description>&lt;p&gt;Ice Cream&lt;/p&gt;&#xA;&lt;p&gt;2 eggs&#xA;0.25 cup sugar&#xA;1 cup heavy cream&#xA;1t vanilla&lt;/p&gt;&#xA;&lt;p&gt;form a soft meringue beating&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 egg white sugar&lt;/li&gt;&#xA;&lt;li&gt;1/4 cup sugar&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;whip till light&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2 egg yolks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;add&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1t vanilla&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;soft whip&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1 cup heavy cream&#xA;fold together, freeze&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

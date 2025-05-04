@@ -1,5 +1,5 @@
 baseURL = 'https://chandley.github.io/'
 languageCode = 'en-us'
-title = 'Recipe and perhaps blog'
+title = 'Recipes'
 theme = 'ananke'
 publishDir = '../docs'
