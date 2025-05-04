@@ -7,13 +7,13 @@ title = 'Ice Cream'
 Ice Cream
 
 2 eggs
-0.25 cup sugar
+¼ cup sugar
 1 cup heavy cream
 1t vanilla
 
 form a soft meringue beating 
 * 2 egg white sugar
-* 1/4 cup sugar
+* ¼ cup sugar
 * 
 whip till light
 * 2 egg yolks
