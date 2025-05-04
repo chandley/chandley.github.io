@@ -14,7 +14,6 @@ Ice Cream
 form a soft meringue beating 
 * 2 egg white sugar
 * ¼ cup sugar
-* 
 whip till light
 * 2 egg yolks
 

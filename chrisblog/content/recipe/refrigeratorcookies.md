@@ -11,16 +11,17 @@ mix thoroughly
 * 2 eggs
 
 then stir in
-2 ¼ cups sifted plain flour
-½ tsp Bicarbonate of soda
-1 tsp salt
-2 to 3 tsp cinnamon
+* 2 ¼ cups sifted plain flour
+* ½ tsp Bicarbonate of soda
+* 1 tsp salt
+* 2 to 3 tsp cinnamon
 
 ½ cup walnuts (optional)
 
 cool in bowl, form into rolls then wrap in cling film & freeze
 
 cut into rounds, ⅛ to ¼ inch thick
+
 Bake on sheet at 200 C/400 F for 6 to 8 mins
 
 ### options
