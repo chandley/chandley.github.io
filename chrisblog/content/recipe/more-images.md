@@ -6,7 +6,11 @@ title = 'More pictures'
 
 {{< figure src="/images/BigHair.jpeg" title="Styled hair picture" width="400">}}
 
-{{< figure src="/images/WithCup.jpeg" title="Styled hair picture" width="400">}}
+{{< figure src="/images/WithCup.jpeg" title="With Cup" width="400">}}
+
+{{< figure src="/images/CentreParting.jpeg" title="Centre Parting" width="400">}}
+
+{{< figure src="/images/LookingUp.jpeg" title="Looking up" width="400">}}
 
 {{< figure src="/images/SheepInWoods.jpeg" title="Sheep in woods" width="400">}}
 
