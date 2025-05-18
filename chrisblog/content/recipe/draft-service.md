@@ -8,45 +8,44 @@ title = 'Draft Order of service'
 
 # Susan Hoyt Handley
 
-{{< figure src="/images/Wedding.jpeg" title="Wedding picture" width="400">}}
+{{< figure src="/images/BigHair.jpeg" title="Styled hair picture" width="400">}}
 
-### 26 August 1931              3 May 2025
+### 26 August 1931 - 3 May 2025
 
 {{< figure src="/images/MumHazen.jpeg" title="Girl picture" width="400">}}
 
 ### Music on Arrival
 ##### Porgy and Bess
-Gershwin
+*by Gershwin*
 
-### Greeting              Will
+### Greeting (Will)
 
-### Eulogy                   Mary Creswell
+### Eulogy (Mary Creswell)
 
 Anyone who would like to take this opportunity to say a few words, please do so
 ### Reading (Chris?)
 
 ##### Ecclesiastes 3 1:8
 
-To every thing there is a season, and a time to every purpose under the heaven: 
+To everything there is a season, and a time to every purpose under the heaven:
 a time to be born, and a time to die;
-a time to plant, and a time to pluck up that which is planted; 
+a time to plant, and a time to pluck up that which is planted; 
 a time to kill, and a time to heal;
-a time to break down, and a time to build up; 
+a time to break down, and a time to build up; 
 a time to weep, and a time to laugh;
-a time to mourn, and a time to dance; 
+a time to mourn, and a time to dance; 
 a time to cast away stones, and a time to gather stones together;
-a time to embrace, and a time to refrain from embracing; 
+a time to embrace, and a time to refrain from embracing; 
 a time to get, and a time to lose;
-a time to keep, and a time to cast away; 
+a time to keep, and a time to cast away; 
 a time to rend, and a time to sew;
-a time to keep silence, and a time to speak; 
+a time to keep silence, and a time to speak; 
 a time to love, and a time to hate;
-a time of war, and a time of peace. 
+a time of war, and a time of peace. 
 
 ### Hymn
 ##### Battle Hymn of the Republic
-Text: J.W. Howe, 1819 - 1910
-Music: W. Steffe, 1830 - 1890
+*by J.W. Howe and W. Steffe*
 
 Mine eyes have seen the glory of the coming of the Lord:
 He is trampling out the vintage where the grapes of wrath are stored;
@@ -73,7 +72,7 @@ Our God is marching on.
 
 ### Reading
 ##### I Am Standing Upon The Seashore
-Henry Van Dyke
+*by Henry Van Dyke*
 
 I am standing upon the seashore.
 A ship at my side spreads her white
@@ -104,9 +103,9 @@ And that is dying.
 
 ### Reading
 ##### Desiderata
-by Max Ehrmann
+*by Max Ehrmann*
 
-Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
+Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
 
 Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.
 
@@ -126,6 +125,51 @@ Beyond a wholesome discipline, be gentle with yourself. You are a child of the u
 
 And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
 
+### Music (Harp)
+
+### Reading
+##### Immortality (read by Hillary)
+*by Clare Horner*
+
+Do not stand By my grave, and weep.
+I am not there, I do not sleep—
+I am the thousand winds that blow
+I am the diamond glints in snow
+I am the sunlight on ripened grain,
+I am the gentle, autumn rain.
+As you awake with morning's hush,
+I am the swift, up-flinging rush
+Of quiet birds in circling flight,
+I am the day transcending night.
+Do not stand
+By my grave, and cry—
+I am not there,
+I did not die.
+
+### Hymn
+##### Tell out my soul
+*by Timothy Dudley-Smith*
+
+Tell out, my soul, the greatness of the Lord!
+Unnumbered blessings give my spirit voice;
+tender to me the promise of his word –
+in God my Saviour shall my heart rejoice.
+
+Tell out, my soul, the greatness of his name!
+Make known his might, the deeds his arm has done;
+his mercy sure, from age to age the same –
+his holy name: the Lord, the Mighty One.
+
+Tell out, my soul, the greatness of his might!
+Powers and dominions lay their glory by;
+proud hearts and stubborn wills are put to flight,
+the hungry fed, the humble lifted high.
+
+Tell out, my soul, the glories of his word!
+Firm is his promise, and his mercy sure:
+tell out, my soul, the greatness of the Lord
+to children’s children and for evermore!
+
 ### The Irish Blessing
 
 May the road rise to meet you,  
@@ -137,7 +181,7 @@ May God hold you in the palm of his hand.
 ### Music on Departure
 
 ##### It’s a Wonderful World
-by Louis Armstrong
+*by Louis Armstrong*
 
 {{< figure src="/images/MumDad.jpeg" title="Couple picture" width="400">}}
 
@@ -149,7 +193,7 @@ Tuffley
 GL4 8EZ
 ###### Sam and Karrie Handley
 Chemin de L'Agasse 24
-CH-1950 Sion
+CH-1950 Sion
 Switzerland
 ###### Ellen Hoad
 21 April Close,
